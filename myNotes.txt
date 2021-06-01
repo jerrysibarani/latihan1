@@ -1,0 +1,2 @@
+*Untuk mengatur base url:
+\jerryns777\application/.htaccess
